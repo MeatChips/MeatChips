@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am MeatChips, a 3rd year Game Developer. I'm currently developing a 3D coop adventure game in Unity using Mirror.
+### I am MeatChips, a 3rd year Game Developer. I'm currently developing a 2D survival game
 
 ## Fun Fact about my name:
 ### My name has been created by merging to random words with each other, there is no further backstory on it.
