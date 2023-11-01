@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am MeatChips, a 3rd year Game Developer. 
+### I am MeatChips, a 4th year Game Developer. 
 ## Fun Fact about my name:
 ### My name has been created by merging to random words with each other, there is no further backstory on it.
 
